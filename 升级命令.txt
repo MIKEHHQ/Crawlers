@@ -1,0 +1,3 @@
+python -m pip install --user --upgrade pip -i http://mirrors.aliyun.com/pypi/simple/ --trust mirrors.aliyun.com
+
+ pip install --user -i http://mirrors.aliyun.com/pypi/simple/ --trust mirrors.aliyun.com -U matplotlib
